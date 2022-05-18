@@ -1,7 +1,7 @@
 # 非脚手架方式构建 React 项目
 
 > 学习[从头开始搭建一个 react + typescript 脚手架项目](https://juejin.cn/post/7037316769195196429)博客,
-> [本项目源码地址]()
+> [本项目源码地址](https://github.com/ducaoya/create-react-app)
 
 ## 初始化 npm 项目
 
@@ -10,7 +10,6 @@
 生成 package.json 文件
 
 ```json
-// package.json
 {
   "name": "creat-react-app",
   "version": "1.0.0",
