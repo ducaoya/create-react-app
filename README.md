@@ -1,5 +1,8 @@
 # 非脚手架方式构建 React 项目
 
+> 学习[从头开始搭建一个 react + typescript 脚手架项目](https://juejin.cn/post/7037316769195196429)博客,
+> [本项目源码地址]()
+
 ## 初始化 npm 项目
 
 运行`npm init`
