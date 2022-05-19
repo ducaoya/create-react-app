@@ -45,6 +45,7 @@ module.exports = {
     'linebreak-style': ['off', 'windows'],
     '@typescript-eslint/no-var-requires': 0,
     '@typescript-eslint/no-use-before-define': 2,
+    '@typescript-eslint/no-explicit-any': ['off'],
     'import/no-extraneous-dependencies': [2, { devDependencies: true }],
     'no-use-before-define': 0,
     'import/no-unresolved': 0,
