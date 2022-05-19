@@ -27,3 +27,8 @@ declare module '*.png' {
   const path: string;
   export default path;
 }
+
+declare module '*.module.less' {
+  const path: any;
+  export default path;
+}
